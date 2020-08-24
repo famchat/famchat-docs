@@ -26,7 +26,7 @@
   
   libfam includes http[s] server addressable by usual http[s] URLs, and in case of `Accepts: text/x-fam` returning a fam-json of data.
 
-## Would be interesting to support as subprotocols:
+## Would be interesting to support as subprotocols and features:
 
  * irc
  * retroshare
